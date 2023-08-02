@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on my first swift project: CityHopper.
+- 🔭 I’m currently working on my second swift App project: SportGo.
+
+- I Launched my first app CityHopper on Appstore.
 
 - 🌱 I’m currently learning Data Structure & Algo.
 
